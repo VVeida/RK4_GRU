@@ -7,9 +7,10 @@ Seismic analysis of structural systems often relies on numerical methods, such a
 
 
 
-## Contains
-***Code*** contains code of RK4GRU for the Bouc-Wen model <br>
-
+## Code Contains
+***RK4GRU_for_BoucWen.py*** Run code of RK4GRU for the Bouc-Wen model <br>
+***RK4GRUcell_best.pth*** The best  trained network model <br>
+***run_log.txt*** Text of test results and training process logs <br>
 
 ## Citation
 Please cite the following paper if you find the work relevant and useful in your research:
