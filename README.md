@@ -15,5 +15,12 @@ Seismic analysis of structural systems often relies on numerical methods, such a
 ## Citation
 Please cite the following paper if you find the work relevant and useful in your research:
 ```
-!!!!!!!!!!!!!!!!!
+@article{zhai2024state,
+  title={State space model-based Runge--Kutta gated recurrent unit networks for structural response prediction},
+  author={Zhai, Weida and Bao, Yuequan and Tao, Dongwang},
+  journal={Nonlinear Dynamics},
+  pages={1--21},
+  year={2024},
+  publisher={Springer}
+}
 ```
